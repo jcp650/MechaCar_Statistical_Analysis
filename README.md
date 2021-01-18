@@ -24,4 +24,13 @@ The summary table in **Figure 2** shows that for all of the lots, the required v
 The fist T-Test (**Figure 4**) was calculated for the PSI's from all 3 manufacturing lots, and was tested against the population mean of 1500 PSI. This t-test had a p-value of 0.06028. If we assume that we are using the typical p-value threshold of 0.05, then this data is above the required p-value. This means that we do not have sufficient evidence to reject the null hypothesis, and we can state that the two means are statistically similar.  The t-test from lot 1 (**Figure 5**) had a p-value of 1, and the mean of the PSI was exactly 1500. The t-test from lot 2 (**Figure 6**) had a p-value of 0.6072 and a mean of 1500.2, therefore the population and the sample are statistically similar. The t-test from lot 3 (**Figure 7**) had a p-value of 0.04168, which means that the two means are not statistically similar. This t-test aligns with our previous findings that lot 3 had problematic PSI's which indicates an error in their manufacturing.
 
 ### Figure 4
-![](
+![](images/one_sample_t-test.png)
+
+### Figure 5
+![](images/lot1_t-test.png)
+
+### Figure 6
+![](images/lot2_t-test.png)
+
+### Figure 7
+![](images/lot3_t-test.png)
