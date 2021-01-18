@@ -34,3 +34,7 @@ The fist T-Test (**Figure 4**) was calculated for the PSI's from all 3 manufactu
 
 ### Figure 7
 ![](images/lot3_t-test.png)
+
+## Study Design: MechaCar vs Competition
+
+An appropriate statistical study for the MechaCar would be for highway fuel efficiency. This test could be accomplished by first gathering data on the competition car's highway fuel efficiency. The specific metric needed would be miles-per-gallin (mpg) on the highway. The test that would be most useful for this study would be a two sample t-test. This test could identifty if there was a statistical difference between the two sample means of the MechaCar's mpg and the competition car's mpg. The null hypothesis would be that there is *no* statistical difference between the two sample means, and the alternative hypothesis would be that there *is* a difference between the two sample means. This test would help determine whose highway mpg is better, and could be valuable information before the car hits the market.
