@@ -25,6 +25,7 @@ View(total_summary)
 lot_summary <- sc_table %>% group_by(Manufacturing_Lot) %>% summarize(Mean=mean(PSI), Median=median(PSI), Variance=var(PSI), SD=sd(PSI), .groups = 'keep')
 View(lot_summary)
 
+## Deliverable 3
 # Create a t-test for all manufacturing lots
 ?t.test()
 
