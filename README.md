@@ -13,4 +13,9 @@ According to this linear regression model (Figure 1), ground clearance and vehic
 
 The summary table in Figure 2 shows that for all of the lots, the required variance of under 100 pounds PSI for the suspension coils is met. However, when viewing the variance by manufacturing lot (Figure 3), it is evident that lot 3 is above the required variance at about 170.29. This indicates that manufacturing lot 3 is the only lot where the variance is above the specifications needed to properly produce the suspension coils.
 
-###
+### Figure 2
+![](images/total_summary.png)
+
+### Figure 3
+![](images/lot_summary.png)
+
